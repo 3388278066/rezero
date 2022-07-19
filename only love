@@ -7,7 +7,7 @@
     <title>only love</title>
 </head>
 <body>
-    <audio src="1.mp3"autoplay loop>
+    <audio src="1.mp3"controls autoplay loop>
     </audio>
 </body>
 </html>
